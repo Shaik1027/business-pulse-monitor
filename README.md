@@ -1,5 +1,10 @@
+# Advanced Business Pulse Monitor
 
-Advanced Business Pulse Monitor
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-lightgrey?logo=pandas)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange?logo=plotly)
+
 A user-friendly dashboard that tracks key business metrics such as sales performance, support tickets, and customer retention — built using Python and Streamlit.
 
 🔑 Key Features
